@@ -64,3 +64,7 @@ networks:
 
 
  Agora na pasta onde estão os projetos, abra o prompt de comando ou power shell e execute o comando `docker-compose up`. Abra a url que irá aparecer no seu prompt (neste caso é http://127.0.0.1:8080/) e teste seu site.
+
+
+ ### Obs: 
+ para que os serviços possam usar a autenticação, altere a url no appsettings.json do seu projeto com a seguinte rota "http://grupo2identityserver:5139". Ao invés de localhost, utilizamos o nome da imagem e a porta especificada no `docker-compose.yml` 
