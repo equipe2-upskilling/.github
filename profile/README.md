@@ -63,4 +63,4 @@ networks:
 ```
 
 
- abra o prompt de comando ou power shell e execute o comando `docker-compose up`.
+ Agora na pasta onde estão os projetos, abra o prompt de comando ou power shell e execute o comando `docker-compose up`. Abra a url que irá aparecer no seu prompt (neste caso é http://127.0.0.1:8080/) e teste seu site.
