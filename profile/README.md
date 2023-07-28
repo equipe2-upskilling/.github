@@ -10,4 +10,4 @@
 # Projeto The Hand Learning
 
 ## conteinerização
-Em cada projeto foi adicionado o arquivo ---Dockerfile. Depois de clonar todos os projetos para uma pasta, devemos buildar as imagens. Abra o promt de comando na pasta onde está o arquivo Dockerfile e use o seguinte comando '''docker build -t nome_da_imagem .
+Em cada projeto foi adicionado o arquivo Dockerfile. Depois de clonar todos os projetos para uma pasta, devemos buildar as imagens. Abra o promt de comando na pasta onde está o arquivo Dockerfile e use o seguinte comando `docker build -t nome_da_imagem` .
